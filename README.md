@@ -1,2 +1,0 @@
-# NitroKuba
-Project NitroKuba
